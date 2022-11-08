@@ -1,4 +1,4 @@
-Timmy="handsome"
+Timmy="p"
 
 if Timmy=="handsome":
     print("wow")
